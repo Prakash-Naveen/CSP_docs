@@ -43,6 +43,7 @@ You will be creating a user account, which will be used by the Marketplace solut
 1. **Launch** a browser and **navigate** to https://partnercenter.microsoft.com/. 
 2. **Click** on the **Sign in** button and login to the portal with your integration sandbox admin account.
 <img src="Images/Images/6.png"/>
+
 3. Once logged in,**navigate** to the **Dashboard.**
 <img src="Images/Images/7.png"/>
 
@@ -52,6 +53,7 @@ You will be creating a user account, which will be used by the Marketplace solut
 <img src="Images/Images/9.png"/>
 6. Click on Add User.
 <img src="Images/Images/10.png"/>
+
 7.	**Add** a new user with **Admin Agent** premissions.
 <img src="Images/Images/11.png"/>
 8.	Once user is created, share username and temporary password.
