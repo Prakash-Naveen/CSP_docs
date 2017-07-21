@@ -1,9 +1,8 @@
 # CSP Sandbox Environment Setup
-##### Conditions and Terms of Use
+* ##### Conditions and Terms of Use
 ````
 This material is proprietary and confidential.Duplicating and/or distribution in their entirety 
 or in part is not permitted without the expressed prior written consent of Spektra Systems, LLC.
-
 ````
 
 
