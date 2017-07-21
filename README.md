@@ -29,7 +29,6 @@ You can skip these setup steps, if you have created integration sandbox already.
 If you haven’t created integration sandbox, please follow the steps on the Integration Sandbox page 
 to create one. It might take upto 15 minutes for the integration sandbox provisioning to complete.
 ````
-
 7. Once integration sandbox environment is ready, you should see a message like in the image given below.
 <img src="Images/Images/5.png"/>
 8. Sign out from the partner center portal. 
